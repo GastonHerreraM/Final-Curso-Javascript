@@ -1,0 +1,331 @@
+[{
+    "id": 1,
+    "name": "Kodama box set (2xlp, 2x1 LP 45rpm + 2 cds + 6 art prints + artbook + certificate)",
+    "band": "Alcest",
+    "genre": "Blackgaze",
+    "type": "Vinyl Box Set",
+    "price": 80,
+    "stock": 1,
+    "imagen": "kodama-box-set-alcest.webp"
+},
+{
+    "id": 2,
+    "name": "Kodama",
+    "band": "Alcest",
+    "genre": "Blackgaze",
+    "type": "Vinyl",
+    "price": 25,
+    "stock": 5,
+    "imagen": "alcest-kodama-vinyl.jpg"
+},
+{
+    "id": 3,
+    "name": "Écailles de lune",
+    "band": "Alcest",
+    "genre": "Blackgaze",
+    "type": "Vinyl",
+    "price": 32,
+    "stock": 2,
+    "imagen": "alcest-ecailles.de.lune-vinyl.jpg"
+},
+{
+    "id": 4,
+    "name": "Lore",
+    "band": "Elder",
+    "genre": "Stoner Rock",
+    "type": "Vinyl",
+    "price": 26,
+    "stock": 3,
+    "imagen": "elder-lore-2lp.jpeg"
+},
+{
+    "id": 5,
+    "name": "Lore",
+    "band": "Elder",
+    "genre": "Stoner Rock",
+    "type": "CD",
+    "price": 15,
+    "stock": 11,
+    "imagen": "Elder_Lore.jpeg"
+},
+{
+    "id": 6,
+    "name": "Trascendental",
+    "band": "MONO & The Ocean",
+    "genre": "Post Rock",
+    "type": "Vinyl",
+    "price": 23,
+    "stock": 2,
+    "imagen": "mono-trascendental.jpg"
+},
+{
+    "id": 7,
+    "name": "Hymn to the immortal wind (10th Anniversary Edition)",
+    "band": "MONO",
+    "genre": "Post Rock",
+    "type": "Vinyl",
+    "price": 90,
+    "stock": 1,
+    "imagen": "MONO-Hymn.to.the.immortal.wind.jpg"
+},
+{
+    "id": 8,
+    "name": "Departure Songs",
+    "band": "We Lost The Sea",
+    "genre": "Post Rock",
+    "type": "Vinyl",
+    "price": 39,
+    "stock": 4,
+    "imagen": "we.lost.the.sea-departure.songs.jpg"
+},
+{
+    "id": 9,
+    "name": "Back In Black",
+    "band": "AC/DC",
+    "genre": "Hard Rock",
+    "type": "Vinyl",
+    "price": 36,
+    "stock": 9,
+    "imagen": "vinyl-ACDC-BackInBlack.jpg"
+},
+{
+    "id": 10,
+    "name": "The Car Limited Edition",
+    "band": "Arctic Monkeys",
+    "genre": "Alternative Rock",
+    "type": "Vinyl",
+    "price": 45,
+    "stock": 20,
+    "imagen": "vinyl-ArcticMonkeys-TheCarLimitedEdition.jpg"
+},
+{
+    "id": 11,
+    "name": "Black Sabbath Splash Purple Edition",
+    "band": "Black Sabbath",
+    "genre": "Heavy Metal",
+    "type": "Vinyl",
+    "price": 42,
+    "stock": 7,
+    "imagen": "vinyl-BlackSabbath.jpg"
+},
+{
+    "id": 12,
+    "name": "Mob Rules (Remastered)",
+    "band": "Black Sabbath",
+    "genre": "Heavy Metal",
+    "type": "Vinyl",
+    "price": 37,
+    "stock": 13,
+    "imagen": "vinyl-BlackSabbath-MobRules.png"
+},
+{
+    "id": 13,
+    "name": "The Ultimate Collection: Limited Colour Edition",
+    "band": "Black Sabbath",
+    "genre": "Heavy Metal",
+    "type": "Vinyl Box Set",
+    "price": 80,
+    "stock": 3,
+    "imagen": "vinyl-BlackSabbath-UltimateCollection.jpg"
+},
+{
+    "id": 14,
+    "name": "Enema of the State Limited Edition",
+    "band": "Blink 182",
+    "genre": "Pop punk",
+    "type": "Vinyl",
+    "price": 29,
+    "stock": 13,
+    "imagen": "vinyl-Blink182-EnemaOfTheStateLimitedEdition.jpg"
+},
+{
+    "id": 15,
+    "name": "Legend LP",
+    "band": "Bob Marley and The Wailers",
+    "genre": "Reggae",
+    "type": "Vinyl",
+    "price": 26,
+    "stock": 9,
+    "imagen": "vinyl-BobMarley-LegendLP.jpg"
+},
+{
+    "id": 16,
+    "name": "Music of the Spheres Limited Edition",
+    "band": "Coldplay",
+    "genre": "Alternative Rock",
+    "type": "Vinyl",
+    "price": 37,
+    "stock": 11,
+    "imagen": "vinyl-Coldplay-MusicOfTheSpheresLimitedEdition.jpg"
+},
+{
+    "id": 17,
+    "name": "Random Access Memories: Limited Edition",
+    "band": "Daft Punk",
+    "genre": "French House",
+    "type": "Vinyl",
+    "price": 39,
+    "stock": 17,
+    "imagen": "vinyl-DaftPunk-RandomAccessMemories.jpg"
+},
+{
+    "id": 18,
+    "name": "White Pony: 20th Anniversary Deluxe Edition",
+    "band": "Deftones",
+    "genre": "Nu Metal",
+    "type": "Vinyl Box Set",
+    "price": 79,
+    "stock": 9,
+    "imagen": "vinyl-deftones-whitepony.jpg"
+},
+{
+    "id": 19,
+    "name": "Appetite For Destruction",
+    "band": "Guns N' Roses",
+    "genre": "Hard Rock",
+    "type": "Vinyl",
+    "price": 27,
+    "stock": 21,
+    "imagen": "vinyl-Guns&Roses-AppetiteForDestruction.jpg"
+},
+{
+    "id": 20,
+    "name": "Use Your Illusion: Super Deluxe 12LP + Blu-Ray Box Set",
+    "band": "Guns N' Roses",
+    "genre": "Hard Rock",
+    "type": "Vinyl Box Set",
+    "price": 510,
+    "stock": 1,
+    "imagen": "vinyl-guns&roses-UseYourIllusionBoxSet.png"
+},
+{
+    "id": 21,
+    "name": "Axis: Bold as Love",
+    "band": "Jimi Hendrix Experience",
+    "genre": "Rock",
+    "type": "Vinyl",
+    "price": 33,
+    "stock": 7,
+    "imagen": "vinyl-JimiHendrix-AxisBoldAsLove.jpg"
+},
+{
+    "id": 22,
+    "name": "Electric Ladyland",
+    "band": "Jimi Hendrix Experience",
+    "genre": "Rock",
+    "type": "Vinyl",
+    "price": 40,
+    "stock": 10,
+    "imagen": "vinyl-JimiHendrix-ElectricLadyland.jpg"
+},
+{
+    "id": 23,
+    "name": "Black Album (Remastered Limited Edition)",
+    "band": "Metallica",
+    "genre": "Heavy Metal",
+    "type": "Vinyl",
+    "price": 48,
+    "stock": 14,
+    "imagen": "vinyl-Metallica-BlackAlbum.jpg"
+},
+{
+    "id": 24,
+    "name": "Master Of Puppets",
+    "band": "Metallica",
+    "genre": "Heavy Metal",
+    "type": "Vinyl",
+    "price": 44,
+    "stock": 5,
+    "imagen": "vinyl-Metallica-MasterOfPuppets.jpg"
+},
+{
+    "id": 25,
+    "name": "In Utero",
+    "band": "Nirvana",
+    "genre": "Grunge",
+    "type": "Vinyl",
+    "price": 32,
+    "stock": 3,
+    "imagen": "vinyl-Nirvana-InUtero.jpg"
+},
+{
+    "id": 26,
+    "name": "Nevermind",
+    "band": "Nirvana",
+    "genre": "Grunge",
+    "type": "Vinyl",
+    "price": 29,
+    "stock": 6,
+    "imagen": "vinyl-Nirvana-Nevermind.jpg"
+},
+{
+    "id": 27,
+    "name": "MTV Unplugged in New York",
+    "band": "Nirvana",
+    "genre": "Grunge",
+    "type": "Vinyl",
+    "price": 50,
+    "stock": 12,
+    "imagen": "vinyl-Nirvana-UnpluggedInNewYork.jpg"
+},
+{
+    "id": 28,
+    "name": "Ten",
+    "band": "Pearl Jam",
+    "genre": "Alternative Rock",
+    "type": "Vinyl",
+    "price": 29,
+    "stock": 6,
+    "imagen": "vinyl-PearlJam-Ten.jpg"
+},
+{
+    "id": 29,
+    "name": "Pulp Fiction (OST)",
+    "band": "Original Soundtrack",
+    "genre": "OST",
+    "type": "Vinyl",
+    "price": 26,
+    "stock": 3,
+    "imagen": "vinyl-PulpFictionOST.png"
+},
+{
+    "id": 30,
+    "name": "Greatest Hits 180gm Heavyweight",
+    "band": "Queen",
+    "genre": "",
+    "type": "Rock",
+    "price": 40,
+    "stock": 2,
+    "imagen": "vinyl-Queen-GreatestHits.jpg"
+},
+{
+    "id": 31,
+    "name": "Limited Colour Vinyl Bundle",
+    "band": "Queens of the Stone Age",
+    "genre": "Alternative Rock",
+    "type": "Vinyl Box Set",
+    "price": 81,
+    "stock": 8,
+    "imagen": "vinyl-QueensOfTheStoneAgeBundleColor.png"
+},
+{
+    "id": 32,
+    "name": "Abbey Road Anniversary Edition",
+    "band": "The Beatles",
+    "genre": "Rock",
+    "type": "Vinyl",
+    "price": 29,
+    "stock": 13,
+    "imagen": "vinyl-TheBeatles-AbbeyRoadAnniversary.jpg"
+},
+{
+    "id": 33,
+    "name": "The Beatles (White Album)",
+    "band": "The Beatles",
+    "genre": "Rock",
+    "type": "Vinyl",
+    "price": 56,
+    "stock": 3,
+    "imagen": "vinyl-TheBeatles-WhiteAlbum.jpg"
+}
+]
